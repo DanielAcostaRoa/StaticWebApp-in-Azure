@@ -1,0 +1,20 @@
+{
+  "name": "my-static-web-app",
+  "version": "1.0.0",
+  "description": "---\r page_type: sample\r languages:\r   - javascript\r   - typescript\r products:\r   - azure functions\r description: 'Apps that can be used with as a starting point for some MS Learn Modules.'\r urlFragment: 'https://github.com/MicrosoftDocs/mslearn-staticwebapp'\r ---",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielAcostaRoa/my-static-web-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanielAcostaRoa/my-static-web-app/issues"
+  },
+  "homepage": "https://github.com/DanielAcostaRoa/my-static-web-app#readme"
+}
